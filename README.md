@@ -4,9 +4,6 @@ The **Mas**s **con**centration
 ## Main function
 ANGELS-Mascon is a software that enables the user to process the gravity satellite data in the Mascon approch.
 
-### Output
-Finally, the equivalent water height or the spherical harmonic coefficient after treatment can be output.
-
 ## Release time
 We will release fortran and matlab version of the code in December 2022.
 
