@@ -5,6 +5,7 @@ The **Mas**s **con**centration
 ANGELS-Mascon is a software that enables the user to process the gravity satellite data in the Mascon approch.
 
 ## Release time
+At present, the code is being improved and sorted.
 We will release fortran and matlab version of the code in December 2022.
 
 ## Citation
